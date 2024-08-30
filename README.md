@@ -1,2 +1,2 @@
-# IBEA-
+# IBEA
 Metaheuristic IBEA
